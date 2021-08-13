@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b85d349f6346aaded2cdc6d25bab81d7",
+    "revision": "ff8cba804092a7ab30eb4e9ed2ebb291",
     "url": "/index.html"
   },
   {
-    "revision": "63c8480b2fc5da476c71",
+    "revision": "dd90f42571f815ace375",
     "url": "/static/css/main.d65e5f6d.chunk.css"
   },
   {
-    "revision": "eeb36fab46442f133d2a",
-    "url": "/static/js/2.e716bcc8.chunk.js"
+    "revision": "129b45ea468987951dee",
+    "url": "/static/js/2.de560750.chunk.js"
   },
   {
-    "revision": "63c8480b2fc5da476c71",
-    "url": "/static/js/main.ae3e7ee7.chunk.js"
+    "revision": "dd90f42571f815ace375",
+    "url": "/static/js/main.59dca62b.chunk.js"
   },
   {
     "revision": "71410d4f60daf6555516",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/static/media/contactMail.d6d4086f.png"
+  },
+  {
+    "revision": "f36cb6d8a6b0b19b17eab6362def2122",
+    "url": "/static/media/cv.f36cb6d8.jpg"
   },
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
@@ -188,6 +192,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.c24ba791.svg"
   },
   {
+    "revision": "1bad64fe1b703bc96b1bc22cf2d21e7e",
+    "url": "/static/media/gra.1bad64fe.jpg"
+  },
+  {
+    "revision": "34020d9e6e5957a37e9e0c43db07d2a8",
+    "url": "/static/media/hamari.34020d9e.jpg"
+  },
+  {
     "revision": "dc277ac3142649ab5482f784fb08ae53",
     "url": "/static/media/hu.dc277ac3.jpg"
   },
@@ -238,6 +250,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd5f4148a754968cb4444206539c565c",
     "url": "/static/media/pwa.bd5f4148.png"
+  },
+  {
+    "revision": "04f06d8a0dac8337180a99205ad7dad7",
+    "url": "/static/media/rahul.04f06d8a.jpeg"
+  },
+  {
+    "revision": "65ca8bf62bc31a4fb5112b7840d178a7",
+    "url": "/static/media/rahul.65ca8bf6.png"
+  },
+  {
+    "revision": "01a3b4f41c5356f3ed0dd99a401a1f65",
+    "url": "/static/media/rivera.01a3b4f4.jpg"
   },
   {
     "revision": "bc03ffa3b956c94ac109aab8fbac87d7",
